@@ -1,0 +1,3 @@
+h1. JAML.tmbundle - a TextMate bundle for Jaml
+
+p. Jaml tries to emulate Ruby's Haml library, making it easy to generate HTML in your JavaScript projects.
