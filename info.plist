@@ -4,6 +4,10 @@
 <dict>
 	<key>mainMenu</key>
 	<dict>
+		<key>excludedItems</key>
+		<array>
+			<string>28CF6CA4-ACBB-4E6B-9597-D3A9D2134562</string>
+		</array>
 		<key>items</key>
 		<array>
 			<string>BFDD2650-B012-4880-83A0-5FA7310BC93E</string>
@@ -26,23 +30,12 @@
 			<string>F087CCA1-6FCA-4360-AF09-B64FE4A3AFF0</string>
 			<string>7ECDBFE5-6EE3-4BD2-AC6E-4BB51DDC157D</string>
 			<string>------------------------------------</string>
-			<string>21D5C9FE-4FE6-458B-8C70-E5ED3417C010</string>
+			<string>172897EF-5160-4DF9-B18A-22FCD0B26CBB</string>
+			<string>702B3626-19A0-49C6-ADA9-376FA4D30EF3</string>
+			<string>FCE9011E-0864-49B0-8237-5262C827FBCA</string>
 		</array>
 		<key>submenus</key>
-		<dict>
-			<key>21D5C9FE-4FE6-458B-8C70-E5ED3417C010</key>
-			<dict>
-				<key>items</key>
-				<array>
-					<string>172897EF-5160-4DF9-B18A-22FCD0B26CBB</string>
-					<string>------------------------------------</string>
-					<string>702B3626-19A0-49C6-ADA9-376FA4D30EF3</string>
-					<string>FCE9011E-0864-49B0-8237-5262C827FBCA</string>
-				</array>
-				<key>name</key>
-				<string>Forms</string>
-			</dict>
-		</dict>
+		<dict/>
 	</dict>
 	<key>name</key>
 	<string>JAML</string>
