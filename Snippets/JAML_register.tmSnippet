@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>Jaml.register('${1:name}', function(${2:arguments}) {
+  ${0}
+});</string>
+	<key>name</key>
+	<string>JAML.register</string>
+	<key>scope</key>
+	<string>source.js</string>
+	<key>tabTrigger</key>
+	<string>register</string>
+	<key>uuid</key>
+	<string>BFDD2650-B012-4880-83A0-5FA7310BC93E</string>
+</dict>
+</plist>
